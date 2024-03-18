@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main">#6580FB</color>
+    <color name="primary">#B4AEFF</color>
+    <color name="primary_variant">#68C3E6</color>
+    <color name="secondary">#a5b4f5</color>
+    <color name="secondary_variant">#dce1f5</color>
+    <color name="msg_recv">#D2CFFD</color>
+    <color name="msg_send">#99CCC8FF</color>
+    <color name="send_bar">#9C99C3</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
